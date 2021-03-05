@@ -1,1 +1,2 @@
+This new change in four.txt
 Thsi is test git commit -a
