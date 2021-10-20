@@ -6,4 +6,4 @@ This is my first second commit
 
 Manasvi Sree Sai Muppalla
 
-Muppalla Veeru - new commit 3
+Muppalla Veeru - new merged commi 2
